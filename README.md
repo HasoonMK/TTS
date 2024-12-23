@@ -92,8 +92,3 @@ These dependencies are listed in the `requirements.txt` file for easy installati
 
 ## Contributing
 Feel free to fork the repository and submit pull requests with enhancements or bug fixes.
-
----
-
-## License
-This project is licensed under the MIT License.
